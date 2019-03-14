@@ -1,0 +1,6 @@
+beautifulsoup4==4.7.1
+bs4==0.0.1
+jsontools==0.1
+lxml==4.3.2
+requests==2.21.0
+
